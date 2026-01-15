@@ -1,12 +1,26 @@
 ## 📁 Projetos
 
-### 1) Projeto Fluxo de Caixa
+### 1) Projeto Fluxo de Caixa (Excel)
+
+**Problema:** baixa visibilidade do caixa e do resultado mensal/acumulado.  
+**Solução:** base de lançamentos + categorização + painel executivo (mensal/anual).  
+**Entrega:** dashboard com **Entradas x Saídas**, **Saldo**, **Resultado acumulado** e **análises por categoria**.
+
+**O que o dashboard mostra**
+- KPIs: Total Entradas, Total Saídas, Saldo do mês, Resultado acumulado
+- Gráficos: evolução mensal, distribuição por categoria, comparativos por período
+- Estrutura: base de dados + painel (visão executiva)
+
+**Impacto**
+- Centraliza o controle financeiro e acelera a leitura do resultado do período
+- Ajuda a identificar rapidamente categorias que mais impactam o caixa
+
+**Tech / Skills**
+- Excel (Tabelas), fórmulas, validação de dados
+- Gráficos e construção de KPIs
+
 **Arquivo:** `1. Projeto Fluxo De Caixa.xlsx`  
-**Objetivo:** acompanhar entradas e saídas, saldo por período e visão consolidada do fluxo financeiro.  
-**Destaques:** organização financeira, acompanhamento mensal, gráficos e indicadores.
-
 ![Fluxo de Caixa](excel-projectsprints/fluxo-caixa.png)
-
 
 ---
 
