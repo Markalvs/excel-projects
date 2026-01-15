@@ -19,7 +19,9 @@
 - Excel (Tabelas), fórmulas, validação de dados
 - Gráficos e construção de KPIs
 
-**Arquivo:** `1. Projeto Fluxo De Caixa.xlsx`  
+**Arquivo:** `1. Projeto Fluxo De Caixa.xlsx`
+
+
 ![Fluxo de Caixa](excel-projectsprints/fluxo-caixa.png)
 
 ---
