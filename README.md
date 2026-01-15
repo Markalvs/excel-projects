@@ -22,7 +22,8 @@
 - Excel (tabelas, fórmulas, validação de dados)  
 - Construção de dashboards, gráficos e KPIs
 
-**Arquivo:** `1. Projeto Fluxo de Caixa.xlsx`  
+**Arquivo:** `1. Projeto Fluxo de Caixa.xlsx`
+
 ![Fluxo de Caixa](excel-projectsprints/fluxo-caixa.png)
 
 
@@ -47,7 +48,8 @@
 - Excel (tabelas, fórmulas, validação)  
 - Dashboards, KPIs, segmentação de clientes
 
-**Arquivo:** `2. Projeto Perfil do cliente.xlsx`  
+**Arquivo:** `2. Projeto Perfil do cliente.xlsx` 
+
 ![Perfil do Cliente](excel-projectsprints/perfil-cliente.png)
 
 
@@ -73,6 +75,7 @@
 - Indicadores financeiros e visualização executiva
 
 **Arquivo:** `3. Projetos Ativos.xlsx`  
+
 ![Projeto Ativos](excel-projectsprints/projeto-ativos.png)
 
 
@@ -98,6 +101,7 @@
 - KPIs de vendas e análise comparativa
 
 **Arquivo:** `4. Projeto Painel de Vendas.xlsx`  
+
 ![Painel de Vendas](excel-projectsprints/painel-vendas.png)
 
 
