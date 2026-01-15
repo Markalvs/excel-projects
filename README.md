@@ -31,6 +31,9 @@
 **Objetivo:** analisar perfil e segmentação de clientes, padrões de comportamento e indicadores relevantes.  
 **Destaques:** estruturação de dados, insights de perfil e métricas para tomada de decisão.
 
+
+![Perfil do Cliente](excel-projectsprints/perfil-cliente.png)
+
 ---
 
 ### 3) Projeto Ativos
@@ -38,12 +41,18 @@
 **Objetivo:** controle e análise de ativos, com visão de status, acompanhamento e organização.  
 **Destaques:** padronização de base, indicadores e acompanhamento operacional.
 
+
+![Projeto Ativos](excel-projectsprints/projeto-ativos.png)
+
 ---
 
 ### 4) Projeto Painel de Vendas
 **Arquivo:** `4. Projeto Painel de Vendas.xlsx`  
 **Objetivo:** acompanhar performance de vendas com KPIs, tendências e análises por período.  
 **Destaques:** painel gerencial, gráficos, visão comparativa e métricas de desempenho.
+
+
+![Painel de Vendas](excel-projectsprints/painel-vendas.png)
 
 ---
 
