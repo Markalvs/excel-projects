@@ -23,8 +23,9 @@
 - Construção de dashboards, gráficos e KPIs
 
 **Arquivo:** `1. Projeto Fluxo de Caixa.xlsx`  
-
 ![Fluxo de Caixa](excel-projectsprints/fluxo-caixa.png)
+
+
 ---
 
 ## 2) Projeto Perfil do Cliente (Excel)
