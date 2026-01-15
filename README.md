@@ -53,6 +53,8 @@
 
 ---
 
+## 3) Projeto Ativos (Excel)
+
 **Problema:** controle descentralizado de investimentos/ativos, dificultando acompanhar patrimônio, evolução e concentração de risco.  
 **Solução:** estruturação de carteira + cálculo de métricas financeiras + painel executivo com visão consolidada e comparativos.  
 **Entrega:** dashboard de patrimônio com composição, maiores posições e principais valorizações.
