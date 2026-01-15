@@ -4,6 +4,7 @@
 **Arquivo:** `1. Projeto Fluxo De Caixa.xlsx`  
 **Objetivo:** acompanhar entradas e saídas, saldo por período e visão consolidada do fluxo financeiro.  
 **Destaques:** organização financeira, acompanhamento mensal, gráficos e indicadores.
+![Fluxo de Caixa](prints/fluxo-caixa.png)
 
 ---
 
