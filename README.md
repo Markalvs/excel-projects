@@ -1,4 +1,4 @@
-## 📁 Projetos
+## Projetos
 
 ## 1) Projeto Fluxo de Caixa (Excel)
 
