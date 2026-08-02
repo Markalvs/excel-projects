@@ -2,12 +2,6 @@
 
 Este repositório reúne projetos desenvolvidos em **Microsoft Excel**, com foco em dashboards, análise de dados, automação de planilhas e criação de indicadores para apoio à tomada de decisão.
 
-Cada projeto possui sua própria pasta contendo:
-
-- A planilha desenvolvida;
-- Imagens do dashboard (quando aplicável);
-- Documentação técnica (README).
-
 ---
 
 ## 1. Fluxo de Caixa
@@ -197,10 +191,6 @@ Cada projeto possui sua própria pasta contendo:
 - Indicadores
 
 **Projeto:** `controle-de-estoque`
-
-<p align="center">
-  <img src="controle-de-estoque/imagens/dashboard.png" width="900">
-</p>
 
 ---
 
